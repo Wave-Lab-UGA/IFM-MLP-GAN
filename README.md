@@ -1,6 +1,6 @@
 # IFM-MLP-GAN
 A Data Augmentation Using Generative Adversarial Network for High-Precision Instantaneous Microwave Frequency Measurement System
-@copyright: wavelab @UGA
+* @copyright: wavelab @UGA
 
 # Please cite our paper to use the code:
 * Md Asaduzzaman Jabin and Mable P. Fok, "Data augmentation using a generative adversarial network for a high-precision instantaneous microwave frequency measurement system," Opt. Lett. 47, 5276-5279 (2022)
